@@ -3,7 +3,7 @@
 import qrcode
 import random
 # example data input
-data = "https://www.youtube.com/watch?v=hEBwJpfGUl8"
+data = "https://www.youtube.com/" #add link here
 
 # output file name  
 
